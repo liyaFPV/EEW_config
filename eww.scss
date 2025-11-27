@@ -1,0 +1,29 @@
+* {
+  font-family: "JetBrains Mono", "Iosevka", sans-serif;
+  font-size: 14px;
+  color: #eaeaea;
+}
+
+.bar {
+  background: #1e1e2e;
+  padding: 4px 10px;
+  border-bottom: 1px solid #2a2a3c;
+}
+
+.left, .center, .right {
+  padding: 0 10px;
+}
+
+.time {
+  font-weight: bold;
+  color: #cba6f7;
+}
+
+.sysinfo label {
+  margin-left: 10px;
+  color: #89dceb;
+}
+
+.icon {
+  padding-right: 10px;
+}
